@@ -2,8 +2,8 @@
   "version": "2.4.1",
   "summary": {
     "title": "Online Shop Threat Model",
-    "owner": "",
-    "description": "",
+    "owner": "Sayyidah Fatimah Azzahra",
+    "description": "This is a threat modelling for an e-commerce or online shop environment.",
     "id": 0
   },
   "detail": {
